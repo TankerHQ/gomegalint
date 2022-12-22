@@ -1,4 +1,4 @@
-module github.com/krdln/gomegalint
+module github.com/TankerHQ/gomegalint
 
 go 1.14
 
